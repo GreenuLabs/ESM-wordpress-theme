@@ -1,0 +1,5 @@
+# Compiled source #
+###################
+.project
+.buildpath
+.settings/
